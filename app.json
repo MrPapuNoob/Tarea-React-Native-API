@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "Biblioteca App",
+    "slug": "biblioteca-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "bibliotecaapp",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.anonymous.bibliotecaapp"
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-status-bar"
+    ]
+  }
+}
